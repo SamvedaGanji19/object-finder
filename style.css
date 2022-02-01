@@ -1,0 +1,23 @@
+.heading{
+    font-size: 30px;
+    width: 100%;
+    margin-top: 0px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
+.note{
+    font-size: 22px;
+    color: black;
+}
+#num_of_objects,#status,#start{
+font-size:22px;
+}
+
+body{
+    background-position: center;
+    background-size: cover;
+}
+label{
+    background-color: teal;
+    padding: 10px;
+    color: white;
+}
